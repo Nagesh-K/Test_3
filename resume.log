@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  24 APR 2017 00:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  24 APR 2017 15:34
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -174,110 +174,105 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
+(Font)              <7> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 16.
+(Font)              <5> on input line 15.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 13--23
-[][]
+Overfull \hbox (0.7995pt too wide) in paragraph at lines 12--22
+ []  
  []
 
 
-Overfull \hbox (124.68748pt too wide) in paragraph at lines 13--23
+Overfull \hbox (124.68748pt too wide) in paragraph at lines 12--22
 [] 
  []
 
 <photo.png, id=1, 280.04625pt x 414.04688pt>
 File: photo.png Graphic file (type png)
  <use photo.png>
-Package pdftex.def Info: photo.png used on input line 25.
+Package pdftex.def Info: photo.png used on input line 24.
 (pdftex.def)             Requested size: 68.99895pt x 102.01413pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--55
+Underfull \hbox (badness 10000) in paragraph at lines 36--54
 
  []
 
 
-Overfull \hbox (13.82933pt too wide) in paragraph at lines 37--55
+Overfull \hbox (13.82933pt too wide) in paragraph at lines 36--54
 [] 
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./photo.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 72.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
 
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.85 		\end{itemize}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.84 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--116
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
-Missing character: There is no ‚ in font cmbx10!
-Missing character: There is no Ä in font cmbx10!
-Missing character: There is no ú in font cmbx10!
-Missing character: There is no ‚ in font cmbx10!
-Missing character: There is no Ä in font cmbx10!
-Missing character: There is no ù in font cmbx10!
-Missing character: There is no ‚ in font cmbx10!
-Missing character: There is no Ä in font cmbx10!
-Missing character: There is no ú in font cmbx10!
-Missing character: There is no ‚ in font cmbx10!
-Missing character: There is no Ä in font cmbx10!
-Missing character: There is no ù in font cmbx10!
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 144--147
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+Missing character: There is no ‚ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ú in font cmbx10!
+Missing character: There is no ‚ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ù in font cmbx10!
+Missing character: There is no ‚ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ú in font cmbx10!
+Missing character: There is no ‚ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ù in font cmbx10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--150
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
-
- []
-
-[3] (resume.aux) ) 
+[3] [4] (resume.aux) ) 
 Here is how much of TeX's memory you used:
  2220 strings out of 493333
  32647 string characters out of 3139197
@@ -286,17 +281,17 @@ Here is how much of TeX's memory you used:
  5824 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,12n,37p,381b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (3 pages, 643764 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti10.pfb>
+Output written on resume.pdf (4 pages, 644222 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
